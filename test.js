@@ -1,1 +1,1 @@
-const a = 'my first commit'
+const b = ' my second commit'
